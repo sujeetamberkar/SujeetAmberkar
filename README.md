@@ -4,13 +4,13 @@ This repository contains a command-line cricket game implemented in C++. It allo
 ## Getting Started
 To play the game, follow these steps:
 1)Clone the repository to your local machine using the following command:
-  git clone https://github.com/your-username/cricket-game.git
+      git clone https://github.com/your-username/cricket-game.git
 2)Navigate to the project directory:
-  cd cricket-game
+      cd cricket-game
 3)Compile the source code using a C++ compiler. For example, using g++:
-  g++ cricket_game.cpp -o cricket_game
+      g++ cricket_game.cpp -o cricket_game
 4)Run the compiled executable: 
- ./cricket_game
+     ./cricket_game
 
 ## Rules and Gameplay
 1)The game starts with a toss to determine which team will bat or bowl first.
